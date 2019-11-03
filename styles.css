@@ -1,0 +1,59 @@
+             BODY {
+                 margin:0;
+                 font-size:80%;
+             }
+         
+             .marco {
+                 width:1000px;
+                 margin:10px auto 10px auto; /* Centrado horizontal */
+             }
+ 
+             .cabecera {
+                 border:solid orange 1px;
+                 padding:10px;
+             }
+ 
+             .cuerpo {
+                 padding:10px 0 10px 0;
+                 overflow-x:hidden;
+                 overflow-y:auto; /* Hace que se ajuste a la columna más alta en ff */
+              height:100%; /* Hace que se ajuste a la columna más alta  en ie6 */
+             }
+ 
+             .pie {
+                 border:solid orange 1px;
+                 padding:10px;
+                 text-align:center;
+                 font-size:80%;
+             }
+			 .list1{
+                font-size: 30px;
+				 text-align:center;
+				 color: #000000;
+                 background-color: aqua
+                 
+			 }
+			 .list2{
+                font-size: 20px;
+				 text-align:center;
+				 color: #42b983;
+				 background-color:blue
+			 }
+			 .list3{
+                font-size: 20px;
+				 text-align:center;
+				 color: #999999;
+				 background-color: black
+			 }
+			 .list4{
+                font-size: 20px;
+				 text-align:center;
+				 color: #b94256;
+				 background-color: yellowgreen
+			 }
+			 .list5{
+                font-size: 20px;
+				 text-align:center;
+				 color: #345678;
+				 background-color: red
+			 }
